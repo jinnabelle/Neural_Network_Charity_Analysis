@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysis
+# Neural Network-Charity Analysis
 
 ## Overview of the loan prediction risk analysis:<br>
 The purpose of this analysis is well defined (4 pt)<br>
