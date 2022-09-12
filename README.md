@@ -24,20 +24,23 @@ There were two hidden layers for the neural network model, the first having 80 n
 
 Were you able to achieve the target model performance?<br>
 No, my model did not reach the target model performance. It had an accuracy of 59.7%
+![Initial results](https://github.com/jinnabelle/Neural_Network_Charity_Analysis/blob/main/Initial%20Attempt.png?raw=true)
+
 
 What steps did you take to try and increase model performance?<br>
 I attempted three more times. Below are the approach I took for each attempt <br>
 
 Attempt 1: 
 I changed the second layer to have 40 neurons instead of the initial 30. The accuracy for this was 42% which was the lowest of the three attempts.
-
+![Attemp1](https://github.com/jinnabelle/Neural_Network_Charity_Analysis/blob/main/Attempt1.png?raw=true)
 
 Attempt 2: 
 I added a third layer and changed the neurons for each layer. Layer 1 had 100 neurons, layer 2 had 50 and layer 3 had 20. The accuracy for this was 53.3%
+![Attempt2](https://github.com/jinnabelle/Neural_Network_Charity_Analysis/blob/main/Attempt2.png)
 
 Attempt 3: 
 I kept the same amount of layers as the second attempt and changed the number of neurons for each layer with 80,70,30 neurons, respectively. I also changed the activation for the outer layer to tanh. The accuracy for this was 55%. 
-
+![Attempt3](https://github.com/jinnabelle/Neural_Network_Charity_Analysis/blob/main/Attempt3.png)
 
 ## Summary:<br>
 There is a summary of the results (2 pt)<br>
