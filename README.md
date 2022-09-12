@@ -29,13 +29,14 @@ What steps did you take to try and increase model performance?<br>
 I attempted three more times. Below are the approach I took for each attempt <br>
 
 Attempt 1: 
-I changed the second layer to have 40 neurons instead of the initial 30. The accuracy for this was %
+I changed the second layer to have 40 neurons instead of the initial 30. The accuracy for this was 42% which was the lowest of the three attempts.
+
 
 Attempt 2: 
 I added a third layer and changed the neurons for each layer. Layer 1 had 100 neurons, layer 2 had 50 and layer 3 had 20. The accuracy for this was 53.3%
 
 Attempt 3: 
-I kept the same amount of layers as the second attempt and changed the number of neurons for each layer. I also changed the activation for the outer layer to tanh. The accuracy for this was %. 
+I kept the same amount of layers as the second attempt and changed the number of neurons for each layer with 80,70,30 neurons, respectively. I also changed the activation for the outer layer to tanh. The accuracy for this was 55%. 
 
 
 ## Summary:<br>
